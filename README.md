@@ -36,7 +36,9 @@ Park Place Sports Bar <br>
 
 - R Programming 
 
-- SQL 
+- SQL
+
+- Changelogs 
 
 <!---
 AlexRenteria/AlexRenteria is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
