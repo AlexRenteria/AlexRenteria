@@ -1,4 +1,4 @@
-## Alexander Renteria Munguia's Data Analysis Portfolio 
+## Alexander Renteria Munguia's Data Analysis Resume
 
 ### ➡️ Skills🧰 
 
