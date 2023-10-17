@@ -4,7 +4,7 @@
 
 - Programing language: SQL and R 
 
-- Software: Microsoft Excel, Google Spreadsheets and MySQL. 
+- Software: Microsoft Excel, Google Spreadsheets, SQLite and MySQL. 
 
 - Visual Software: Tableau, PowerPoint and Google Slides
 
@@ -24,21 +24,9 @@ Google Data Analytics Certificate <br>
 Park Place Sports Bar <br>
 *Tasked with finding the best selling menu items to keep for a new menu*  
 
-### ➡️ Projects🗄️
+### ➡️ Projects🗄️ *Click link to see previous projects*
 
-- Spreadsheets
-
-- Visualazations
-
-- Static Reports
-
-- Presentaions 
-
-- R Programming 
-
-- SQL
-
-- Changelogs 
+ 
 
 <!---
 AlexRenteria/AlexRenteria is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
